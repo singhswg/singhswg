@@ -74,15 +74,28 @@
   
  ```geojson
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [41.8781, 87.6298]
-  },
-  "properties": {
-    "name": "Chicago, US"
-  }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chicago"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-87.940101, 41.644543],
+            [-87.524729, 42.023036],
+            [-87.940101, 42.023036],
+            [-87.940101, 41.644543]
+          ]
+        ]
+      }
+    }
+  ]
 }
+
 
 ```
 
