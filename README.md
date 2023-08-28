@@ -55,10 +55,9 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=singhswg" width="auto"></img>
 
 **📫 How to Reach me:**
-<p align="left">
 <a href="https://www.linkedin.com/in/balpreet-singh-0657ab54/" target="blank"><img align="center" src="https://raw.githubusercontent.com/singhswg/singhswg/master/assets/linkedin.svg" alt="singhswg" height="30" width="30" /></a>
 <a href="mailto:mrr.balpreet@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/singhswg/singhswg/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
+
 
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
@@ -71,37 +70,18 @@
 
 
 
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-   
-
-
 <!-- Chicago - My Home-->
   
  ```geojson
 {
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Point",
-       "coordinates": [41.8781,87.6298]
-     }
-   }
- ]
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [41.8781, 87.6298]
+  },
+  "properties": {
+    "name": "Chicago, US"
+  }
 }
 
 ```
