@@ -16,7 +16,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Balpreet+Singh!+Welcome+to+My+Profile!;7+years+working+in+System+engineering+and+Infrastructure;Keep+learning+and+keep+sharing!+;Infrastructure+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Balpreet+Singh!+Welcome+to+My+Profile!;7+years+working+in+System+engineering+and+Infrastructure;Keep+learning+and+keep+sharing!+;Infrastructure+Engineering)](https://git.io/typing-svg)
 
 
 
