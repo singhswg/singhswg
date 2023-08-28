@@ -16,7 +16,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Balpreet+Singh;+Welcome+to+My+Profile!;+7+years+working+in+System+engineering+and+Infrastructure;Keep+learning+and+keep+sharing!+;Infrastructure+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Balpreet+Singh!+Welcome+to+My+Profile!;7+years+working+in+System+engineering+and+Infrastructure;Keep+learning+and+keep+sharing!+;Infrastructure+Engineering)](https://git.io/typing-svg)
 
 
 
@@ -74,19 +74,22 @@
   
  ```geojson
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Chicago, US"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.6298, 41.8781]
-      }
-    }
-  ]
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-87.940267, 41.644335],
+        [-87.940267, 42.023038],
+        [-87.523661, 42.023038],
+        [-87.523661, 41.644335],
+        [-87.940267, 41.644335]
+      ]
+    ]
+  },
+  "properties": {
+    "name": "Chicago"
+  }
 }
 
 
