@@ -79,18 +79,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chicago"
+        "name": "Chicago, US"
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-87.940101, 41.644543],
-            [-87.524729, 42.023036],
-            [-87.940101, 42.023036],
-            [-87.940101, 41.644543]
-          ]
-        ]
+        "type": "Point",
+        "coordinates": [-87.6298, 41.8781]
       }
     }
   ]
