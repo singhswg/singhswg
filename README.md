@@ -98,7 +98,7 @@ graph TD;
      },
      "geometry": {
        "type": "Point",
-       "coordinates": [41.8781,87.6298],
+       "coordinates": [41.8781,87.6298]
      }
    }
  ]
