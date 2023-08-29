@@ -80,26 +80,11 @@
 
 
 
-
-
-<p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-
-</p>
-
-
-
 #### Thanks for visiting :heart:
 
+### Profile Visits 08/28/2023 onwards...
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/singhswg/count.svg">  
-
-counting of visitors to this page in this section started from Aug 28, 2023
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
+<img src="https://profile-counter.glitch.me/singhswg/count.svg"> <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ## Star History
 
