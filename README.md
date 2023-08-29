@@ -31,22 +31,10 @@
 ![Singhswg's github activity graph](https://raw.githubusercontent.com/singhswg/singhswg/output/github-contribution-grid-snake.svg)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![singhswg's github stats](https://github-readme-stats.vercel.app/api?username=singhswg&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=singhswg&theme=radical&layout=compact) |
+| ![singBalpreethswg's github stats](https://github-readme-stats.vercel.app/api?username=singhswg&show_icons=true&theme=radical&include_all_commits=true) | ![Balpreet's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=singhswg&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhswg"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake -->
-![](https://github.com/singhswg/singhswg/blob/output/github-contribution-grid-snake.svg)
-
-<!--   skyline 
-<a href="https://skyline.github.com/singhswg/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=singhswg" width="auto"></img>
 
 **📫 How to Reach me:**
 <a href="https://www.linkedin.com/in/balpreet-singh-0657ab54/" target="blank"><img align="center" src="https://raw.githubusercontent.com/singhswg/singhswg/master/assets/linkedin.svg" alt="singhswg" height="30" width="30" /></a>
